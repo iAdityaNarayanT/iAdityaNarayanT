@@ -20,8 +20,8 @@
 - 😴 Fun fact: I can spend my entire day sleeping.
 
  
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
-    alt="dishantzaveri" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=iadityanarayant&label=Profile%20views&color=0e75b6&style=flat"
+    alt="iadityanarayant" /> 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
