@@ -45,9 +45,74 @@
 <h1 align="center"> 📊 Statistics: </h1>
 
 <!--START_SECTION:waka-->
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2034%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 555.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+🌆 Daytime                46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+🌃 Evening                127 commits         ███████████████░░░░░░░░░░   58.80 % 
+🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Wednesday                54 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Thursday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Sunday                   75 commits          █████████░░░░░░░░░░░░░░░░   34.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+ShaderLab                2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+
+ Last Updated on 21/01/2024 13:15:44 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
