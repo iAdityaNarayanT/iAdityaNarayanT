@@ -97,12 +97,13 @@ No Activity Tracked This Week
 </p>
 
 The snake's eating up my contributions🐍.
+<!--
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-<!-- ![Snake animation](https://github.com/iadityanarayant/iadityanarayant/blob/output/github-contribution-grid-snake.svg) -->
+-->
+ ![Snake animation](https://github.com/iadityanarayant/iadityanarayant/blob/output/github-contribution-grid-snake.svg) 
   
 
 <br>
