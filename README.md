@@ -45,7 +45,8 @@
 <h1 align="center"> 📊 Statistics: </h1>
 
 <!--START_SECTION:waka-->
-
+<!--START_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
 
 <!--END_SECTION:waka-->
 
