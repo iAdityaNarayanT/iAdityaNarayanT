@@ -45,19 +45,13 @@
 <h1 align="center"> 📊 Statistics: </h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2034%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-237-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-🌆 Daytime                46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-🌃 Evening                135 commits         ███████████████░░░░░░░░░░   60.27 % 
-🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+🌆 Daytime                46 commits          █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌃 Evening                136 commits         ███████████████░░░░░░░░░░   60.44 % 
+🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -77,7 +71,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/01/2024 13:46:06 UTC
+ Last Updated on 21/01/2024 13:49:37 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
