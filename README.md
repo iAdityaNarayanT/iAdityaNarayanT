@@ -40,7 +40,7 @@
 
 <h1 align="center"> 📊 Badge Board: </h1>
 
-[![@iadityanarayant's Holopin board](https://www.holopin.io/iadityanarayant)](https://www.holopin.io/@iadityanarayant#badges)
+[![@iadityanarayant's Holopin board](https://holopin.me/iadityanarayant)](https://holopin.io/@iadityanarayant)
 
 <h1 align="center"> 📊 Statistics: </h1>
 
