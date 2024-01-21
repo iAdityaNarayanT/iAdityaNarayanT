@@ -84,9 +84,9 @@ No Activity Tracked This Week
 
 
 The snake's eating up my contributions🐍.
-<p align="center">
+
   ![Snake animation](https://github.com/iadityanarayant/iadityanarayant/blob/output/github-contribution-grid-snake.svg)
-</p>
+
 <br>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
