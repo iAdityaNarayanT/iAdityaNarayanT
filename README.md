@@ -10,7 +10,7 @@
 
 - 🎓 **Third Year Computer Engineering student at Bhilai Institute Of Technology**.
 - 🔭 I’m currently working on **Web applications**
-- 👨‍💻 All of my projects are available at https://vipraaditya.netlify.com/
+- 👨‍💻 All of my projects are available at https://my-portfolio-pi-teal-68.vercel.app/
 - 📝 I regularly write articles on https://medium.com/@vipraaditya
 - 🌱 I’m currently learning **Frontend Web Development - React and Backend Development - Node**
 - 👯 I’m looking to collaborate on **Open Source, React Projects**
