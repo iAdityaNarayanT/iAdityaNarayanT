@@ -47,11 +47,19 @@
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
+```text
+🌞 Morning                159 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+🌆 Daytime                276 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌃 Evening                286 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌙 Night                  294 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-    JavaScript, ReactJS
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
