@@ -5,7 +5,7 @@
 <hr>
 <p>
 
-<h1 align="center">Hi 👋, I'm Aditya Narayan Tiwari</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Aditya Narayan Tiwari <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
 <h3 align="center">A passionate Web Developer(MERN) from India</h3>
 
 - 🎓 **Third Year Computer Engineering student at Bhilai Institute Of Technology**.
