@@ -83,7 +83,7 @@
 
 The snake's eating up my contributions🐍.
 
- ![Snake animation](https://github.com/iadityanarayant/iadityanarayant/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/iadityanarayant/iadityanarayant/blob/output/github-contribution-grid-snake.svg)
   
 
 <br>
