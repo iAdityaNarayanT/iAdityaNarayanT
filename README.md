@@ -8,7 +8,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Aditya Narayan Tiwari <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2> 
 <h3 align="center">A passionate Web Developer(MERN) from India</h3>
 
-- 🎓 **Third Year Computer Engineering student at Bhilai Institute Of Technology**.
+- 🎓 **Fourth Year Computer Engineering student at Bhilai Institute Of Technology**.
 - 🔭 I’m currently working on **Web applications**
 - 👨‍💻 All of my projects are available at https://my-portfolio-pi-teal-68.vercel.app/
 - 📝 I regularly write articles on https://medium.com/@vipraaditya
